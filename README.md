@@ -1,2 +1,6 @@
 # docker-vagrant
-for vagrant provision docker env on osx/win 
+
+Vagrantfiles for learning vagrant and docker
+
+- docker box
+- ruby box
